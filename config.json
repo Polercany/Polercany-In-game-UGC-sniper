@@ -3,19 +3,18 @@
     "search_cookie": "",
     "item_ids": [],
     "autosearch": {
-        "enabled": true,
+        "enabled": true
     },
     "utility": {
         "search_speed": 1,
         "webhook": ""
-        },
-        "discord_bot": {
-            "enabled": false,
-            "prefix": "!",
-            "token": "",
-            "user_id": [
-                ""
-            ]
-        }
+    },
+    "discord_bot": {
+        "enabled": false,
+        "prefix": "!",
+        "token": "",
+        "user_id": [
+            ""
+        ]
     }
 }
